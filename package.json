@@ -1,0 +1,14 @@
+{
+  "name": "healthcare-management-system",
+  "version": "1.0.0",
+  "description": "Healthcare management App using NodeJS, MongoDB in BE and HTML, CSS and JS in FE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "author": "Twinkle Gohil Chauhan",
+  "license": "ISC",
+  "type": "module"
+}
